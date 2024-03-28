@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin, Flutter, Dart, Java, and NodeJS.<br>🔭 I’m currently working on Plugin Development.<br>👯 I'm looking to collaborate on innovative tech projects related to mobile app development.<br>💬 Ask me about Flutter, Dart, Kotlin, and App Development.<br>⚡ I enjoy solving Rubik's cubes in under two minutes.
+🌱 I’m currently working on Kotlin, Flutter, Dart, Java, and NodeJS.<br>🔭 I’m currently working on Plugin Development.<br>👯 I'm looking to collaborate on innovative tech projects related to mobile app development.<br>💬 Ask me about Flutter, Dart, Kotlin, and App Development.<br>⚡ I enjoy solving Rubik's cubes in under two minutes.
 
 
 ## 🌐 Socials:
